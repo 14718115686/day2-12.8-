@@ -1,0 +1,1 @@
+(()=>{"use strict";alert("这是一个文本");var e=document.createElement("b");e.innerHTML="这是一个文本文本文本",document.body.appendChild(e)})();
